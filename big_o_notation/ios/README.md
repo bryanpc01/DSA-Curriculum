@@ -46,6 +46,7 @@ What doesn't change is the number of steps! Using the number of steps you can ca
 
 ### Common Big-Os
 ![](https://cdn-images-1.medium.com/max/1600/1*_8PfaIyJC7dWJOsKxz47ow.png)
+
 |Big O Runtime|Name|Example|
 |---|---|---|
 |O(1) | Constant | Print the first string in an array of count *n* |
